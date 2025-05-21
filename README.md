@@ -66,12 +66,11 @@ pip install numpy pandas scikit-learn tensorflow
 ---
 
 ## 🚀 How to Run
-
-1. Clone or download this repository.
-2. Install dependencies as shown above.
-3. Run the script:
+  Run the script:
 
 ```bash
+pip install numpy pandas scikit-learn tensorflow
+git clone https://github.com/Mannankhan-sys/Irish-lower-Classification-AI.git
 python iris_nn_classifier.py
 ```
 
