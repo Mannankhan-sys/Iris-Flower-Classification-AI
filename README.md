@@ -69,8 +69,8 @@ pip install numpy pandas scikit-learn tensorflow
   Run the script:
 
 ```bash
-git clone https://github.com/Mannankhan-sys/Irish-Flower-Classification-AI.git
-cd Irish-Flower-Classification-AI
+git clone https://github.com/Mannankhan-sys/Iris-Flower-Classification-AI.git
+cd Iris-Flower-Classification-AI
 pip install numpy pandas scikit-learn tensorflow
 python main.py
 ```
