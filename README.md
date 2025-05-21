@@ -69,9 +69,10 @@ pip install numpy pandas scikit-learn tensorflow
   Run the script:
 
 ```bash
-pip install numpy pandas scikit-learn tensorflow
 git clone https://github.com/Mannankhan-sys/Irish-lower-Classification-AI.git
-python iris_nn_classifier.py
+cd Irish-Flower-Classification-AI
+pip install numpy pandas scikit-learn tensorflow
+python main.py
 ```
 
 You should see training progress followed by a final test accuracy printout.
